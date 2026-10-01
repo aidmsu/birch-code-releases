@@ -27,4 +27,8 @@ Full docs: [docs.getbirch.dev](https://docs.getbirch.dev/)
 
 ## Issues & Feedback
 
-Bug reports and feature requests go to the [issue tracker](https://github.com/aidmsu/birch-code-releases/issues) on this repository.
+For ordinary bugs, use the [Birch community issue forms](https://github.com/BirchHQ/birch-code/issues/new/choose). Questions and ideas belong in [community Discussions](https://github.com/BirchHQ/birch-code/discussions).
+
+## Reporting a security issue
+
+Use [private vulnerability reporting](https://github.com/BirchHQ/birch-code/security/advisories/new). Do not open a public issue for a suspected vulnerability. See [SECURITY.md](SECURITY.md).
